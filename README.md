@@ -1,4 +1,5 @@
 # Gmail to Sheets Automation
+Demo video link: https://drive.google.com/file/d/19HRaV6OWx0eY2rPpXgeKIhwpKGdzHxiX/view?usp=sharing
 
 ## Project Overview
 This project automates fetching unread emails from Gmail and appending them to a Google Sheet.  
