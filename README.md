@@ -94,3 +94,7 @@ Batch limit can be configured in main.py (BATCH_LIMIT)
 state.txt prevents duplicates when rerunning the script
 
 Credentials and token files should never be committed
+
+
+
+Author AASTHA ARORA 
